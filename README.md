@@ -25,4 +25,4 @@
 <br>
 
 
-![1](https://shiyujun.cn/img/gongzhonghao.jpg)
+![image](https://shiyujun.cn/img/gongzhonghao.jpg)
